@@ -4,4 +4,4 @@
 O Diagnóstico de Bug (Dbug) é um jogo sério para desktop e single player, é uma proposta alternativa de 
 ensino e aprendizagem para gestão teste software que aborda as recomendações do Mpt.br nível I.
 
-![https://github.com/mauroES/JogoDbug/blob/master/Imagens/Fase03.png]()
+![teste](https://github.com/mauroES/JogoDbug/blob/master/Imagens/Fase03.png)
