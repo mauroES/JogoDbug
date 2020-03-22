@@ -15,6 +15,6 @@ ensino e aprendizagem para gestão teste software que aborda as recomendações 
 ![- Fase 03 O bug Atirador](https://github.com/mauroES/JogoDbug/blob/master/Imagens/Fase03.png)
 
 
-As ferramentas utilizadas foram:
+As ferramentas utilizadas foram:<br>
 	- Construção das funcionalidades/animações do jogo foram feitas no construct2 v59.
 	- As artes no Photoshop.
