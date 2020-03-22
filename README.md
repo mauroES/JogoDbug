@@ -11,7 +11,7 @@ ensino e aprendizagem para gestão teste software que aborda as recomendações 
 ![- Fase 02 mini forca](https://github.com/mauroES/JogoDbug/blob/master/Imagens/fase02.png)
 
 
-<b>Fase 03</b> - Jogador não dever permirtir que os bugs atingam os smartphones.
+<b>Fase 03</b> - Jogador não dever permirtir que os bugs atinjam os smartphones.
 ![- Fase 03 O bug Atirador](https://github.com/mauroES/JogoDbug/blob/master/Imagens/Fase03.png)
 
 
