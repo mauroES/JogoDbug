@@ -16,5 +16,5 @@ ensino e aprendizagem para gestão teste software que aborda as recomendações 
 
 
 As ferramentas utilizadas foram:<br>
-	- Construção das funcionalidades/animações do jogo foram feitas no construct2 v59.
+	- Construção das funcionalidades/animações do jogo foram feitas no construct2 v59;<br>
 	- As artes no Photoshop.
