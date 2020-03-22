@@ -1,2 +1,3 @@
 # JogoDbug
- Jogo que simula a certificação Mpt.br nivél I
+ Dbug: Um jogo sério para o ensino da gestão de teste de software baseado nas práticas do modelo Mpt.Br
+
